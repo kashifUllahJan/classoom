@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A518E17D-4A89-5202-756D-04BDA8F1F2A2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "classoom",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
